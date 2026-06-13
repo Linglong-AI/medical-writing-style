@@ -27,4 +27,3 @@ Use this skill to improve medical and pharmaceutical language without changing t
 - Do not inject first-person commentary, humor, intentional disorder, or literary personality into formal medical content unless the user explicitly requests it and the communication context permits it.
 - If evidence is missing or stale, mark the gap and request or verify the source rather than guessing.
 - When used with slide-generation or document skills, this skill governs language; the other skill governs artifact structure and rendering.
-
