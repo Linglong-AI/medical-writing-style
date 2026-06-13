@@ -2,4 +2,3 @@ interface:
   display_name: "Medical Writing Style"
   short_description: "Evidence-centered medical writing and review"
   default_prompt: "Use $medical-writing-style to rewrite this medical or pharmaceutical text with precise, balanced, evidence-centered language."
-
