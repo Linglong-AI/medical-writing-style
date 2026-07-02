@@ -1,4 +1,4 @@
 interface:
   display_name: "Medical Writing Style"
   short_description: "Evidence-centered medical writing and review"
-  default_prompt: "Use $medical-writing-style to rewrite this medical or pharmaceutical text with precise, balanced, evidence-centered language."
+  default_prompt: "Use $medical-writing-style to rewrite this Chinese medical or pharmaceutical text with precise, balanced, evidence-centered language. Preserve all source facts, numbers, endpoints, populations, dates, citations, uncertainty, and controlled regulatory/guideline terminology; flag any edit that touches them. Applies to Chinese-majority text (embedded English drug/study names, endpoint and statistical abbreviations, and English skeleton templates are kept as-is); do not use it on English-body text."
