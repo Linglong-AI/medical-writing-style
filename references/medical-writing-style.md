@@ -1,6 +1,6 @@
 # Pharma Language Style Guide
 
-本规范用于 Pharma Slides 的肿瘤医学汇报、证据锚定型 PPT、监管沟通材料、指南摘要和管理层临床开发汇报。语言风格参考 ASCO/WCLC/ESMO、FDA、NMPA/CDE、NCCN/CSCO 的公开材料，提炼共同规律：以证据为中心，客观、精确、平衡，并保留监管视角。
+本规范用于 肿瘤医学汇报、证据锚定型 PPT、监管沟通材料、指南摘要和管理层临床开发汇报。语言风格参考 ASCO/WCLC/ESMO、FDA、NMPA/CDE、NCCN/CSCO 的公开材料，提炼共同规律：以证据为中心，客观、精确、平衡，并保留监管视角。
 
 ## Core Principles
 
